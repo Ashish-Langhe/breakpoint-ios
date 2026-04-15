@@ -1,10 +1,12 @@
 ## Changelog Entry
 
-* Jira Ticket(s): <!-- e.g. BP-12 -->
-  <br/>Labels: <!-- FEATURE | BUG FIX | REFACTOR | CHORE | DOCS -->
-  <br/><!-- Describe what changed in one line -->
-  <br/>PR [#](<!-- PR URL here -->)
-  <br/>[Ashish Langhe](https://github.com/Ashish-Langhe)
+| Field | Details |
+|-------|---------|
+| Jira Ticket | <!-- e.g. BP-12 --> |
+| Label | <!-- FEATURE / BUG FIX / REFACTOR / CHORE / DOCS --> |
+| Summary | <!-- One line description of what changed --> |
+| PR | [#](<!-- paste PR URL here -->) |
+| Author | [Ashish Langhe](https://github.com/Ashish-Langhe) |
 
 ---
 
