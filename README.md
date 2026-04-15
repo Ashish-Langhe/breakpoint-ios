@@ -220,23 +220,6 @@ Breakpoint/
 ```
 ---
 
-## 🗓️ Build Timeline
-
-Built part-time — **2 hours/day, weekdays only, 8 weeks**.
-
-| Milestone | Focus | Timeline |
-|-----------|-------|----------|
-| **M0** — Project Ignition | Git, CI, Jira, Figma wireframes | Days 1–3 |
-| **M1** — Architecture | MVVM, SwiftData schema, design system | Week 1 |
-| **M2** — Today Screen | SwiftUI, Combine, custom components | Week 2 |
-| **M3** — CoreMotion + Notifications | Inactivity detection, nudge engine | Weeks 3–4 |
-| **M4** — Genie Chat | Claude API, context injection, chat UI | Week 5 |
-| **M5** — Insights + WidgetKit | Swift Charts, ImageRenderer, widgets | Week 6 |
-| **M6** — Testing + TestFlight | XCTest, Fastlane CD, beta feedback | Week 7 |
-| **M7** — App Store Launch | Assets, submission, launch strategy | Week 8 |
-
----
-
 ## ⚙️ CI/CD Pipeline
 
 ```
@@ -309,32 +292,6 @@ open Breakpoint.xcodeproj
 
 ---
 
-## 🗺️ Roadmap
-
-- [x] M0 — Project foundation, CI/CD pipeline
-- [ ] M1 — Architecture + design system
-- [ ] M2 — Today screen (SwiftUI)
-- [ ] M3 — CoreMotion inactivity detection
-- [ ] M4 — Genie chat (Claude API)
-- [ ] M5 — Insights + WidgetKit
-- [ ] M6 — Testing + TestFlight
-- [ ] M7 — App Store launch
-- [ ] v1.1 — Apple Watch companion
-- [ ] v1.2 — Team mode + leaderboard
-
----
-
-## 👨‍💻 Author
-
-**Ashish Langhe** — Senior iOS Engineer
-
-9+ years shipping production iOS apps at Disney HKDL, HSBC, Wizink Bank, Ferrovial.
-Currently building toward AI Infrastructure / Agentic DevOps Engineering.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ashish--Langhe-black?logo=github)](https://github.com/Ashish-Langhe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ashishlanghe)
-
----
 
 ## 📄 License
 
