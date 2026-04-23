@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔴 Breakpoint
+# 🔴 Breakpoint [WIP 🚧]
 
 ### The wellness companion built for developers who forget they have a body.
 
